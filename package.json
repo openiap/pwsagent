@@ -1,0 +1,12 @@
+{
+    "name": "pwsagent",
+    "version": "0.0.1",
+    "description": "Example agent, please change",
+    "main": "main.ps1",
+    "openiap": {
+        "daemon": false,
+        "chromium": false,
+        "language": "powershell",
+        "typescript": false
+    }
+}
